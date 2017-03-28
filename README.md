@@ -4,7 +4,8 @@ MNIST digit classification Convolutional Neural Network with Tensorflow
 
 
 **Network Design**
- ***Network 1:*** 
+
+***Network 1:*** 
 
  -  Layer 1 : 5x5 Convolution with 32 feature maps stride 1 
  - Layer 2 : Rectified Linear Unit :ReLU 
