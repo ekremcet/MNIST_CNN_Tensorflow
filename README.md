@@ -1,9 +1,7 @@
 
-MNIST digit classification Convolutional Neural Network with Tensorflow
------------------------------------------------------------------------
+# MNIST digit classification with Tensorflow
 
-
-## Network Design
+### Network Design :pencil:
 
 #### Network 1:
 
@@ -27,7 +25,7 @@ MNIST digit classification Convolutional Neural Network with Tensorflow
  - Layer 7 : Fully Connected Layer, and dropout with 50% prob.  
  - Layer 8: Fully Connected layer , output layer
 
-## Experimental Results :bar_chart:
+### Experimental Results :bar_chart:
 Following table shows the accuracy of networks for different data sets
 
 DATA SET | Network 1 | Network 2
